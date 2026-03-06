@@ -72,6 +72,7 @@ Welcome to Week 4! This two-session assignment builds on Fortunate Cow by teachi
 <!-- TODO: Add your sample output here after completing the assignment! -->
 
 ```text
+<<<<<<< HEAD
 _____________________________________________________________________
 < Good morning! The only way to do great work is to love what you do. >
  ---------------------------------------------------------------------
@@ -92,3 +93,14 @@ _____________________________________________________________________
                ///-._ _ _ _ _ _ _}^ - - - - ~                     ~-- ,.-~       
                                                                   /.-~
 ```
+=======
+ _______________________________
+< Arrays start at index 0       >
+ -------------------------------
+        \   ^__^
+         \  (oo)\_______
+            (__)\       )\/\
+                ||----w |
+                ||     ||
+```
+>>>>>>> b7fb586cc79d5da103b96c713ff3dd090c7f9261
