@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "type": "array",
+  "items": {
+    "type": "object",
+    "properties": {
+      "text": {
+        "type": "string"
+      },
+      "category": {
+        "type": "string",
+        "enum": ["coding", "motivation", "life"]
+      },
+      "mood": {
+        "type": "string",
+        "enum": ["funny", "wise", "calm", "serious", "happy"]
+      }
+    },
+    "required": ["text", "category", "mood"],
+    "additionalProperties": false
+  }
+}

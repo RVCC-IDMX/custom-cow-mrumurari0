@@ -1,0 +1,32 @@
+[
+  {
+    "text": "Debugging is twice as hard as writing code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.",
+    "category": "coding",
+    "mood": "funny"
+  },
+  {
+    "text": "The only way to do great work is to love what you do.",
+    "category": "motivation",
+    "mood": "wise"
+  },
+  {
+    "text": "Life is what happens to you while you're busy making other plans.",
+    "category": "life",
+    "mood": "calm"
+  },
+  {
+    "text": "First, solve the problem. Then, write the code.",
+    "category": "coding",
+    "mood": "serious"
+  },
+  {
+    "text": "Believe you can and you're halfway there.",
+    "category": "motivation",
+    "mood": "happy"
+  },
+  {
+    "text": "I always wanted to be somebody, but now I realize I should have been more specific.",
+    "category": "life",
+    "mood": "funny"
+  }
+]
